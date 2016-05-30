@@ -13,12 +13,12 @@
 * [INRIA](http://pascal.inrialpes.fr/data/human/)
 
 ##相关代码
-ACF原始框架代码[Piotr's Computer Vision Matlab Toolbox]（https://pdollar.github.io/toolbox/index.html）
+ACF原始框架代码[Piotr's Computer Vision Matlab Toolbox](https://pdollar.github.io/toolbox/index.html)
 
 Matlab评估代码[Matlab evaluation/labeling code](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/code/code3.2.1.zip)
 
 [Caltech Pedestrian Detection Benchmark](http://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
 
 ##论文链接
-[pedestrian detection using objectness information]（http://www.ijmlc.org/vol6/578-L023.pdf）
+[pedestrian detection using objectness information](http://www.ijmlc.org/vol6/578-L023.pdf)
 
